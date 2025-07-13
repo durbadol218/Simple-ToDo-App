@@ -26,7 +26,9 @@ Double-click index.html in your file explorer.
 
 ## Project Structure
 index.html = Main HTML file, providing the app structure.
+
 style.css =	CSS file for styling the application.
+
 script.js =	JavaScript file handling all app logic and interactivity.
 
 ## How It Works
