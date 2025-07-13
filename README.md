@@ -25,10 +25,10 @@ or
 Double-click index.html in your file explorer.
 
 ## Project Structure
-File/Folder	Description
-index.html	Main HTML file providing the app structure
-style.css	CSS file for styling the application
-script.js	JavaScript file handling all app logic and interactivity
+index.html = Main HTML file, providing the app structure.
+style.css =	CSS file for styling the application.
+script.js =	JavaScript file handling all app logic and interactivity.
+
 ## How It Works
 1. Add a Task: Enter your task in the input field and click "Add" or press Enter.
 
